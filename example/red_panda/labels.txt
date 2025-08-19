@@ -1,0 +1,2 @@
+1.jpg 61 303 1094 687 red_panda
+2.jpg 465 176 658 1078 red_panda
